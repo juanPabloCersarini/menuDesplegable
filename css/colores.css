@@ -1,0 +1,32 @@
+header{
+	color: black;
+}
+
+.cTexto{
+	color: #f4d03f;
+}
+.submenuC{
+	background:  #f4d03f;
+}
+
+.rTexto{
+	color: #3ff476;
+}
+
+.submenuR{
+	background: #3ff476;
+}
+
+.uTexto{
+	color: #3f63f4;
+}
+
+.submenuU{
+	background:  #3f63f4;
+}
+.dTexto{
+	color: #f43fbe;
+}
+.submenuD{
+	color: #f43fbe;
+}
